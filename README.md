@@ -12,3 +12,4 @@ This folder contains standard examples(scripts and figures) supported by seabron
 
 ## Study_Notes
 This folder contains saves common commands of visualizing methods by different python packedges like matplotlib and seaborn.
+
